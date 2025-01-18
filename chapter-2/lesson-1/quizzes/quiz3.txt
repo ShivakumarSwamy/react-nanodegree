@@ -1,0 +1,15 @@
+If the following sample code were a React application, which of the following components should be in charge of making updates to data? Check all that apply.
+
+<FlightPlanner>
+
+ <LocationPicker>
+  <OriginPicker />
+  <DestinationPicker />
+ </LocationPicker>
+
+ <DatePicker />
+
+</FlightPlanner>
+
+- FlightPlanner
+- LocationPicker

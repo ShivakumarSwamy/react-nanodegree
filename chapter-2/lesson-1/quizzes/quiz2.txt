@@ -1,0 +1,11 @@
+A FlightPlanner component stores the information for booking a flight.
+It also contains DatePicker and DestinationPicker as child components. Here's what the code might look like:
+
+<FlightPlanner>
+ <DatePicker />
+ <DestinationPicker />
+</FlightPlanner>
+
+If this were a React application, which component should be in charge of making updates to the data? Check all that apply.
+
+FlightPlanner

@@ -13,7 +13,7 @@ const allBooks = [...shelf1, ...shelf2];
 console.log(allBooks);
 
 // higher order function
-// Explaination:
+// Explanation:
 // 1. filter function takes an array of books
 // 2. filter function returns a function that takes a shelf
 // 3. the returned function filters the books by shelf

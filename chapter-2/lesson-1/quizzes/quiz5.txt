@@ -1,0 +1,7 @@
+A new array with each element multiplied by three ---> array.map((element) => element * 3);
+
+A new array with the return value of having passed each element into a particular function ---> array.map((element) => myFunction(element));
+
+A new array with values that only include a certain character ---> array.filter((element) => element.includes("a"));
+
+A new array with that only includes values of a certain type ---> array.filter((element) => typeof element === "number");

@@ -1,0 +1,11 @@
+Have a look at this implementation of map() and filter(), can you spot what's wrong with this code? Select all the errors you can find.
+
+const strings = ["David", "Richard", "Karen", "Amanda", 7];
+
+const resultStrings = strings
+  .map((string) => string.length)
+  .filter(string.length < 6);
+
+- 7 cannot be mapped to a length
+- filter() should usually be called first
+- filter() should take in a callback function

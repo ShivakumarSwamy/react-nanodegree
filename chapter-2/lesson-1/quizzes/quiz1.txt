@@ -1,0 +1,6 @@
+Is the following code imperative or declarative?
+
+const people = ["Amanda", "David", "Andrew", "Karen", "Richard", "Tyler"];
+const longNames = people.filter((name) => name.length > 6);
+
+Declarative

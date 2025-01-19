@@ -1,0 +1,7 @@
+What will myBio hold when the following code is run?
+
+import React from 'react';
+
+const myBio = React.createElement('div', null, 'My name is Tyler, and I love porcupines.');
+
+- a JavaScript object

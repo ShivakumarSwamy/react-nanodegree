@@ -1,0 +1,9 @@
+React allows a lot of HTML attributes to be passed along to the React element.
+Look through ^all supported HTML attributes(opens in a new tab) in the React docs
+and select which of the following attributes are allowed:
+
+^https://reactjs.org/docs/dom-elements.html#all-supported-html-attributes
+
+- poster
+- id
+- marginWidth

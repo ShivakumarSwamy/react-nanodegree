@@ -1,0 +1,20 @@
+Consider the following example in JSX:
+
+const greeting = (
+ <div className='greeting'>
+ <h2>Hello world!</h2>
+ </div>
+);
+If we want to output the same HTML, what goes into 1, 2, and 3 when calling createElement()?
+
+const greeting = React.createElement(
+ __1__,
+ { className: 'greeting' },
+ React.createElement(
+ __2__,
+ {},
+ __3__
+ )
+);
+
+- 'div', 'h2', 'Hello world!'

@@ -1,0 +1,4 @@
+What is true about state in React? Please select all that apply:
+- A component state can be defined at initialization
+- State that is needed by multiple components needs to be lifted, up to closet common ancestor
+- A component can alter its own internal state

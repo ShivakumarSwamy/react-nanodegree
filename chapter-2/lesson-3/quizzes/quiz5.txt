@@ -1,0 +1,4 @@
+What is true about setting state in our components? Please check all that apply:
+
+- Whenever state is updated, the component is re-rendered with new state
+- We need to import { useState } from 'react'; before we can useState()

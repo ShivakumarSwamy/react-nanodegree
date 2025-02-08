@@ -1,0 +1,6 @@
+Using the <Clock /> component example:
+
+<Clock currentTime='3:41pm' />
+How would you access the value 3:41pm from inside the component?
+
+- props.currentTime

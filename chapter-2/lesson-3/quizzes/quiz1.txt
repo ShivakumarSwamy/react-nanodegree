@@ -1,0 +1,2 @@
+functions -> arguments
+components -> props

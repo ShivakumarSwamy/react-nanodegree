@@ -1,0 +1,4 @@
+If there were a <Clock /> component in an app you're building,
+how would you pass a currentTime prop into it?
+
+- <Clock currentTime={new Date().getTime()} />

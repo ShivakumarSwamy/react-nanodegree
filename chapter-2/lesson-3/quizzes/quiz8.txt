@@ -1,0 +1,6 @@
+Which of the following is true about controlled components? Please check all that apply:
+
+- Each update to state has an associated handler function
+- Form elements received their current value via an attribute
+- Form input values are generally stored in the component's state
+- Event handlers for a controlled element update the component's state

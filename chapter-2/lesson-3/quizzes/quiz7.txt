@@ -1,0 +1,3 @@
+Which benefit applies to Controlled Components that doesn't apply to "uncontrolled" components?
+
+- Controlled components allow you to update your UI based on the form itself

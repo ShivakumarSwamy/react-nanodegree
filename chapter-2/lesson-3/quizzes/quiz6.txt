@@ -1,0 +1,4 @@
+What is a Controlled Component?
+
+- A component which renders a form, but the source of truth for that form
+  state lives inside, of the component state rather than inside, of the DOM

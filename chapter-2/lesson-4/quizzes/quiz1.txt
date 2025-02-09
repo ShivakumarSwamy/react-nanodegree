@@ -1,0 +1,4 @@
+What is true about hooks? Select all that apply.
+
+- Hooks allow us to use state and lifecycle events in functional components
+- useState is a hook that allowed us to use state in this course

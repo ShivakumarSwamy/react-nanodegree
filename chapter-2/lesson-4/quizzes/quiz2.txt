@@ -1,0 +1,7 @@
+What is true about the useEffect hook? Select all that apply.
+
+- useEffect allows us to access lifecycle events in functional components
+- Passing in an array as the second argument in useEffect() indicates that we just want the effect run once
+  (i.e., only during mount and unmount)
+- Leveraging the useEffect hook is a great way to fetch data to display in a component, or run some special
+  function/logic when a component mounts.

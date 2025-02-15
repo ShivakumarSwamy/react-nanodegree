@@ -1,0 +1,6 @@
+What is true about side effect cleanup? Select all that apply.
+
+- Though not always necessary, side effect cleanup is a good practice when introducing any side effects to
+  your components
+- Component state should not be updated on an unmounted component
+- Side Effect cleanup is a great way to prevent memory leaks and race conditions.

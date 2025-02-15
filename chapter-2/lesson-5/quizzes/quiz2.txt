@@ -1,0 +1,6 @@
+If the browser loads the URL https://localhost:3000/houses/green, which of the following Routes will match?
+
+- <Route path="/houses" component={Houses}/>
+- <Route path="/houses/green" component={Houses}/>
+- <Route exact path="/houses/green" component={Houses}/>
+- <Route path="/" component={Houses}/>
